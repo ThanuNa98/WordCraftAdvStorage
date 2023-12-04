@@ -1,0 +1,3 @@
+"com.google.play.core": "https://github.com/google-unity/google-play-core.git",
+"com.google.android.appbundle": "https://github.com/google-unity/android-app-bundle.git",
+"com.google.external-dependency-manager": "https://github.com/google-unity/external-dependency-manager.git"
